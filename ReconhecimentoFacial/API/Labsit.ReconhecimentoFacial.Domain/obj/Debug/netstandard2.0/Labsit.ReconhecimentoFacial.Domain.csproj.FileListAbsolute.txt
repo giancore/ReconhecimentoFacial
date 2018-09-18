@@ -1,0 +1,9 @@
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\bin\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.deps.json
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\bin\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.dll
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\bin\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.pdb
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.csprojAssemblyReference.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.AssemblyInfoInputs.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.AssemblyInfo.cs
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.dll
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.Domain\obj\Debug\netstandard2.0\Labsit.ReconhecimentoFacial.Domain.pdb

@@ -1,0 +1,17 @@
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.deps.json
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.runtimeconfig.json
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.runtimeconfig.dev.json
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.dll
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.pdb
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.Domain.dll
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\bin\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.Domain.pdb
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.csprojAssemblyReference.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.csproj.CoreCompileInputs.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.RazorAssemblyInfo.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.RazorAssemblyInfo.cs
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.AssemblyInfoInputs.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.AssemblyInfo.cs
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.RazorTargetAssemblyInfo.cache
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.csproj.CopyComplete
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.dll
+C:\Workspace\ReconhecimentoFacial\API2\Labsit.ReconhecimentoFacial\Labsit.ReconhecimentoFacial.WebApi\obj\Debug\netcoreapp2.1\Labsit.ReconhecimentoFacial.WebApi.pdb
